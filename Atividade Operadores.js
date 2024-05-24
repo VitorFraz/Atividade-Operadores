@@ -12,7 +12,7 @@ console.log("===============================")
 
 console.log("=============Ex 2-=============")
 
-//Formula F: C = (F - 32 ) / 1,8
+// Formula F: C = (F - 32 ) / 1,8
 
 var numeroF = 50
 var valor01 = 32
